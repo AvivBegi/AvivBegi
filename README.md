@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aviv Begi</h1>
 <h3 align="center">A FULL-STACK DEVELOPER</h3>
 
+- I’m currently looking for my next job as a Front-End Developer
+
 - All of my projects are available at [www.avivbegi.com](www.avivbegi.com)
 
 - How to reach me **avivbegi10@gmail.com**
