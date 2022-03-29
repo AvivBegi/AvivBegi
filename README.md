@@ -3,7 +3,7 @@
 
 - I’m currently looking for my next job as a Front-End Developer
 
-- All of my projects are available at [avivbegi](www.avivbegi.com)
+- All of my projects are available at www.avivbegi.com
 
 - How to reach me **avivbegi10@gmail.com**
 
